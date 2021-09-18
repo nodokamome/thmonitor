@@ -1,5 +1,3 @@
-// src/Graph.tsx
-
 import { Bar } from 'react-chartjs-2';
 
 const Graph = () => {
